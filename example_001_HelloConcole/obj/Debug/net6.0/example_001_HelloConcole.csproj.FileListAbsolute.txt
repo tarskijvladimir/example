@@ -1,0 +1,15 @@
+C:\Users\tarsk\OneDrive\Рабочий стол\Examples\example_001_HelloConcole\bin\Debug\net6.0\example_001_HelloConcole.exe
+C:\Users\tarsk\OneDrive\Рабочий стол\Examples\example_001_HelloConcole\bin\Debug\net6.0\example_001_HelloConcole.deps.json
+C:\Users\tarsk\OneDrive\Рабочий стол\Examples\example_001_HelloConcole\bin\Debug\net6.0\example_001_HelloConcole.runtimeconfig.json
+C:\Users\tarsk\OneDrive\Рабочий стол\Examples\example_001_HelloConcole\bin\Debug\net6.0\example_001_HelloConcole.dll
+C:\Users\tarsk\OneDrive\Рабочий стол\Examples\example_001_HelloConcole\bin\Debug\net6.0\example_001_HelloConcole.pdb
+C:\Users\tarsk\OneDrive\Рабочий стол\Examples\example_001_HelloConcole\obj\Debug\net6.0\example_001_HelloConcole.csproj.AssemblyReference.cache
+C:\Users\tarsk\OneDrive\Рабочий стол\Examples\example_001_HelloConcole\obj\Debug\net6.0\example_001_HelloConcole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarsk\OneDrive\Рабочий стол\Examples\example_001_HelloConcole\obj\Debug\net6.0\example_001_HelloConcole.AssemblyInfoInputs.cache
+C:\Users\tarsk\OneDrive\Рабочий стол\Examples\example_001_HelloConcole\obj\Debug\net6.0\example_001_HelloConcole.AssemblyInfo.cs
+C:\Users\tarsk\OneDrive\Рабочий стол\Examples\example_001_HelloConcole\obj\Debug\net6.0\example_001_HelloConcole.csproj.CoreCompileInputs.cache
+C:\Users\tarsk\OneDrive\Рабочий стол\Examples\example_001_HelloConcole\obj\Debug\net6.0\example_001_HelloConcole.dll
+C:\Users\tarsk\OneDrive\Рабочий стол\Examples\example_001_HelloConcole\obj\Debug\net6.0\refint\example_001_HelloConcole.dll
+C:\Users\tarsk\OneDrive\Рабочий стол\Examples\example_001_HelloConcole\obj\Debug\net6.0\example_001_HelloConcole.pdb
+C:\Users\tarsk\OneDrive\Рабочий стол\Examples\example_001_HelloConcole\obj\Debug\net6.0\example_001_HelloConcole.genruntimeconfig.cache
+C:\Users\tarsk\OneDrive\Рабочий стол\Examples\example_001_HelloConcole\obj\Debug\net6.0\ref\example_001_HelloConcole.dll

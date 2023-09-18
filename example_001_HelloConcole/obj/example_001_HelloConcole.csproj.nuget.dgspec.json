@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tarsk\\OneDrive\\Рабочий стол\\Examples\\example_001_HelloConcole\\example_001_HelloConcole.csproj": {}
+    "c:\\Users\\tarsk\\OneDrive\\Рабочий стол\\Examples\\example_001_HelloConcole\\example_001_HelloConcole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tarsk\\OneDrive\\Рабочий стол\\Examples\\example_001_HelloConcole\\example_001_HelloConcole.csproj": {
+    "c:\\Users\\tarsk\\OneDrive\\Рабочий стол\\Examples\\example_001_HelloConcole\\example_001_HelloConcole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tarsk\\OneDrive\\Рабочий стол\\Examples\\example_001_HelloConcole\\example_001_HelloConcole.csproj",
+        "projectUniqueName": "c:\\Users\\tarsk\\OneDrive\\Рабочий стол\\Examples\\example_001_HelloConcole\\example_001_HelloConcole.csproj",
         "projectName": "example_001_HelloConcole",
-        "projectPath": "C:\\Users\\tarsk\\OneDrive\\Рабочий стол\\Examples\\example_001_HelloConcole\\example_001_HelloConcole.csproj",
+        "projectPath": "c:\\Users\\tarsk\\OneDrive\\Рабочий стол\\Examples\\example_001_HelloConcole\\example_001_HelloConcole.csproj",
         "packagesPath": "C:\\Users\\tarsk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tarsk\\OneDrive\\Рабочий стол\\Examples\\example_001_HelloConcole\\obj\\",
+        "outputPath": "c:\\Users\\tarsk\\OneDrive\\Рабочий стол\\Examples\\example_001_HelloConcole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tarsk\\AppData\\Roaming\\NuGet\\NuGet.Config"
